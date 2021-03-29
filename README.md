@@ -18,7 +18,20 @@ monitor
  
 חיפוש רשתות במשך דקה:
 
-![image](https://user-images.githubusercontent.com/30858011/112866942-07deda80-90c3-11eb-81f8-2f4f12657f2e.png)
+![image](https://user-images.githubusercontent.com/30858011/112867348-7b80e780-90c3-11eb-8986-d5d466a30868.png)
+
+הכנסת כתובת מאק של רשת רצויה:
+
+![image](https://user-images.githubusercontent.com/30858011/112868393-ad467e00-90c4-11eb-8268-1ecd7747e03c.png)
+
+מציאת משתמשים המחוברים לרשת:
+
+![image](https://user-images.githubusercontent.com/30858011/112868758-14fcc900-90c5-11eb-9d28-3f9cb9f2c043.png)
+
+
+
+
+
 
 
 </div>
