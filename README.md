@@ -1,4 +1,6 @@
 <div dir='rtl' lang='he'>
+ # Kali Linux 
+ # python 3.9
  :Wifi deauthentication attack
  
  Autor: Iris Ravets 320466238
