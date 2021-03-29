@@ -10,11 +10,15 @@
 
 wlan0 - שם של כרטיס רשת
 
-:הכנסה אוטומטית כרטיס רשת למצב 
+-הכנסה אוטומטית כרטיס רשת למצב 
 
 monitor
 
 ![image](https://user-images.githubusercontent.com/30858011/112866383-66f01f80-90c2-11eb-99f8-cc73ba552f7d.png)
  
- 
+חיפוש רשתות במשך דקה:
+
+![image](https://user-images.githubusercontent.com/30858011/112866942-07deda80-90c3-11eb-81f8-2f4f12657f2e.png)
+
+
 </div>
