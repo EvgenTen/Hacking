@@ -26,7 +26,7 @@ monitor
 
 מציאת משתמשים המחוברים לרשת:
 
-![image](https://user-images.githubusercontent.com/30858011/112868758-14fcc900-90c5-11eb-9d28-3f9cb9f2c043.png)
+![image](https://user-images.githubusercontent.com/30858011/112875991-9eb09480-90cd-11eb-85d8-e529e78ed7cb.png)
 
 ניתוק המשתמש:
 
