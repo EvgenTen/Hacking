@@ -28,10 +28,14 @@ monitor
 
 ![image](https://user-images.githubusercontent.com/30858011/112868758-14fcc900-90c5-11eb-9d28-3f9cb9f2c043.png)
 
+ניתוק המשתמש:
 
+![image](https://user-images.githubusercontent.com/30858011/112872244-cf41ff80-90c8-11eb-87f9-004e71b940a7.png)
 
+תוצאה:
 
+![image](https://user-images.githubusercontent.com/30858011/112872471-192ae580-90c9-11eb-8d20-bf496e9cdf59.png)
 
-
+ניתוק בוצע!!!!
 
 </div>
